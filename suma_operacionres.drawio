@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2022-03-23T02:18:36.254Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="Y3wfbaspvDcBt7S1mIqU" version="17.1.3" type="github">
+<mxfile host="app.diagrams.net" modified="2022-03-23T03:29:33.285Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/15.0 Safari/605.1.15" etag="b6noCmyFyXGInBVKslLE" version="17.1.3" type="github">
   <diagram id="KIS1H9DWTQLuKMznqmNU" name="Page-1">
-    <mxGraphModel dx="860" dy="774" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="553" dy="452" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -24,84 +24,62 @@
             <mxPoint x="450.0000000000002" y="300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="c_pyRpQ3Ds_td3GGZ1pk-9">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="355" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.25;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c_pyRpQ3Ds_td3GGZ1pk-11">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="397.5" y="360" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-18" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" target="c_pyRpQ3Ds_td3GGZ1pk-13">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="490.0000000000002" y="360" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="490" y="395" />
-              <mxPoint x="580" y="395" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-19" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-35" target="c_pyRpQ3Ds_td3GGZ1pk-15">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="545" y="330" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-9" target="c_pyRpQ3Ds_td3GGZ1pk-20">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="270" y="621" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="240" y="540" />
-              <mxPoint x="450" y="540" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-9" value="Answer = NUM1 + NUM2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="180" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-11" target="c_pyRpQ3Ds_td3GGZ1pk-20">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-9" target="c_pyRpQ3Ds_td3GGZ1pk-11">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-11" value="Answer = NUM1 - NUM2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="270" y="420" width="120" height="60" as="geometry" />
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-9" value="suma = num1 + num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="300" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.863;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-13" target="c_pyRpQ3Ds_td3GGZ1pk-20">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-11" target="c_pyRpQ3Ds_td3GGZ1pk-13">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-13" value="Answer = NUM1 * NUM2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="520" y="430" width="120" height="60" as="geometry" />
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-11" value="resta = num1 + num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="380" width="220" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-15" target="c_pyRpQ3Ds_td3GGZ1pk-20">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="680" y="590" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-15" value="Answer = NUM1 / NUM2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="610" y="300" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-26" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-20" target="c_pyRpQ3Ds_td3GGZ1pk-25">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-13" target="c_pyRpQ3Ds_td3GGZ1pk-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-20" value="Answer" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="410" y="570" width="80" height="40" as="geometry" />
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-13" value="multiplicacion = num1 +. num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="460" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-15" target="c_pyRpQ3Ds_td3GGZ1pk-20">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-15" value="division = num1 + num2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="540" width="220" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-47" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-20" target="c_pyRpQ3Ds_td3GGZ1pk-46">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-20" value="La suma es : suma" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="630" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-25" value="END&lt;br&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="390" y="660" width="120" height="80" as="geometry" />
+          <mxGeometry x="394" y="870" width="120" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-33" value="NUM1" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-33" value="num1" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="410" y="100" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-34" value="NUM2" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-34" value="num2" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="414" y="190" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-35" target="c_pyRpQ3Ds_td3GGZ1pk-9">
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-49" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-46" target="c_pyRpQ3Ds_td3GGZ1pk-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-35" value="&lt;span&gt;TIPO DE OPERACION (+, -, *, /)&lt;/span&gt;" style="shape=manualInput;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="370" y="290" width="160" height="80" as="geometry" />
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-46" value="La resta es: resta" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="690" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-51" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-48" target="c_pyRpQ3Ds_td3GGZ1pk-50">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-48" value="La multiplicacion es: multiplicacion" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="750" width="160" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-53" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="c_pyRpQ3Ds_td3GGZ1pk-50" target="c_pyRpQ3Ds_td3GGZ1pk-25">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="c_pyRpQ3Ds_td3GGZ1pk-50" value="La division es: division" style="shape=display;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="370" y="810" width="160" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
